@@ -1,0 +1,79 @@
+[
+  {
+    "id": 1,
+    "name": "Air Jordan 1 Low SE Armory Navy",
+    "brand": "Nike",
+    "price": "11,764 Rs",
+    "image": "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/101/973/160/original/1437732_01.jpg.jpeg?action=crop&width=500"
+  },
+  {
+    "id": 2,
+    "name": "Nike Air Force 1 Low Phantom",
+    "brand": "Nike",
+    "price": "21,500 Rs",
+    "image": "https://culture-cirlce-static-dge7g8b8eue6fvcv.z02.azurefd.net/products/amxniaifo1loph/amxniaifo1loph_photo1.png"
+  },
+  {
+    "id": 3,
+    "name": "Dunk Low Team Red",
+    "brand": "Nike",
+    "price": "12,500 Rs",
+    "image": "https://cdn.shopify.com/s/files/1/0788/3869/4173/files/nike-dunk-low-team-red_18174453_45632155_2048.jpg?v=1706272295"
+  },
+  {
+    "id": 4,
+    "name": "Jordan 1 Retro Low OG SP Travis Scott Velvet Brown",
+    "brand": "Nike",
+    "price": "33,500 Rs",
+    "image": "https://www.culture-circle.com/products/all/jordan-1-retro-low-og-sp-travis-scott-velvet-brown"
+  },
+  {
+    "id": 5,
+    "name": "Nike Dunk Low Off-White Lot 22",
+    "brand": "Nike",
+    "price": "$130",
+    "image": "https://culture-cirlce-static-dge7g8b8eue6fvcv.z02.azurefd.net/products/production/bnidulooflo22/bnidulooflo22_photo1.png"
+  },
+  {
+    "id": 6,
+    "name": "Adidas Superstar",
+    "brand": "Adidas",
+    "price": "6000 Rs",
+    "image": "data:image/jpeg;base64,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"
+  },
+  {
+    "id": 7,
+    "name": "Adidas Yeezy 350 V2 Carbon Beluga",
+    "brand": "Adidas",
+    "price": "43,000 Rs",
+    "image": "https://culturecirclestorage.blob.core.windows.net/culture-circle-new/media/products1/yeezy/adidas_yeezy_350_v2_carbon_beluga.png"
+  },
+  {
+    "id": 8,
+    "name": "Adidas Pharrell Williams Hu Nmd Noble Ink",
+    "brand": "Adidas",
+    "price": "36,000 Rs",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR43pUOTC7z-Nbypohej47bw4HziNWoqrGoRORufxxM_g&s"
+  },
+  {
+    "id": 9,
+    "name": "Adidas Bape Green",
+    "brand": "Adidas",
+    "price": "16,000 Rs",
+    "image": "https://hypefly.co.in/_next/image?url=https%3A%2F%2Fdjm0962033frr.cloudfront.net%2Fmedium_12960344_13503204_1000_b4a9231d8d.webp&w=1080&q=70"
+  },
+  {
+    "id": 10,
+    "name": "Puma RS-X",
+    "brand": "Puma",
+    "price": "$100",
+    "image": "https://example.com/puma1.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Puma Future Rider",
+    "brand": "Puma",
+    "price": "$90",
+    "image": "https://example.com/puma2.jpg"
+  }
+]
